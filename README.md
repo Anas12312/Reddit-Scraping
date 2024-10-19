@@ -127,12 +127,3 @@ The scraped data is saved in a `data.json` file in the project directory. You ca
 ## Contributing
 
 Feel free to fork this project and submit pull requests if you'd like to contribute! You can also open issues for bugs or suggestions.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- [Puppeteer](https://github.com/puppeteer/puppeteer) for providing an amazing automation library for Chrome and Chromium.
-- Reddit for being a great platform to experiment with web scraping.
