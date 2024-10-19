@@ -3,7 +3,7 @@ const fs = require('fs')
 
 async function run(searchQuery) {
     const browser = await puppeteer.launch({
-        headless: false,
+        headless: true,
         defaultViewport: false
     })
 
